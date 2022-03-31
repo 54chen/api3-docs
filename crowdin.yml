@@ -1,6 +1,10 @@
 files:
   - source: /docs/
     ignore:
-      - '*vue*'
+      - /docs/.vuepress/
       - '*.js'
+      - '*.png'
+      - '*.pdf'
+      - '*.docx'
+      - '*.drawio'
     translation: /%two_letters_code%/%original_path%/%original_file_name%
