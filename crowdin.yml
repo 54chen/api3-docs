@@ -7,10 +7,11 @@ files:
       - '*.pdf'
       - '*.docx'
       - '*.drawio'
-      - /docs/airnode/v0.2/*
-      - /docs/airnode/v0.1/*
-      - /docs/airnode/v0.3/*
-      - /docs/airnode/v0.4/*
-      - /docs/airnode/v0.5/*
+      - /docs/airnode/v0*5
       - /docs/airnode/pre-alpha
+      - /docs/airnode/v0*2
+      - /docs/airnode/v0*3
+      - /docs/airnode/v0*4
+      - /docs/airnode/v0*1
+      - /docs/beacon/v0*1
     translation: /%original_path%/%original_file_name%-%two_letters_code%
