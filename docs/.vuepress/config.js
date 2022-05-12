@@ -32,9 +32,9 @@ module.exports = {
     ],
     ['link', { rel: 'icon', href: '/img/small-logo.png' }],
   ],
-  title: 'Documentation',
+  title: '技术文档',
   base: '/',
-  description: 'Technical Documentation for API3 ',
+  description: 'API3技术文档',
   markdown: {
     lineNumbers: true,
     extractHeaders: ['h2', 'h3', 'h4', 'h5'],
