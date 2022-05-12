@@ -38,7 +38,7 @@ Airnode的设计机制是为了消除API提供商链上或链下的担忧。 Air
 
 ::: tip
 
-可以在<a href="/api3-whitepaper-v1.0.2.pdf#Airnode:%20A%20Node%20Designed%20for%20First-Party%20Oracles" target="_api3-whitepaper">API3白皮书<em x-id="4"></a>_第四章Airnode: 专为第一方预言机设计的节点_中了解更多Airnode。
+可以在<a href="/api3-whitepaper-v1.0.2.pdf#Airnode:%20A%20Node%20Designed%20for%20First-Party%20Oracles" target="_api3-whitepaper">API3白皮书</a>_第四章Airnode: 专为第一方预言机设计的节点_中了解更多Airnode。
 
 :::
 
@@ -84,13 +84,13 @@ dAPI由API提供商运营的第一方预言机组成，因此比采用中间人�
 
 加入API3社区
 
-[[API3 论坛](https://forum.api3.org/)](https://forum.api3.org/)
+[API3 论坛](https://forum.api3.org/)
 
 社区电报交流群[Telegram](https://t.me/API3DAO)
 
 开发者交流群在 [Discord](https://discord.gg/qnRrcfnm5W)
 
-[YouTube 频道[YouTube](https://www.youtube.com/channel/UCCpUthOhahxjdeX9T7t7nJQ)](https://www.youtube.com/channel/UCCpUthOhahxjdeX9T7t7nJQ)
+YouTube 频道[YouTube](https://www.youtube.com/channel/UCCpUthOhahxjdeX9T7t7nJQ)
 
 :::
 

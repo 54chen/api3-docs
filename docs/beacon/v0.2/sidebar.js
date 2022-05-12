@@ -1,6 +1,6 @@
 module.exports = [
   {
-    title: 'Introduction',
+    title: '简述',
     initialOpenGroupIndex: 1,
     collapsable: false,
     children: [
@@ -10,7 +10,7 @@ module.exports = [
     ],
   },
   {
-    title: 'Beacon Server Functions',
+    title: 'Beacon服务端方法',
     initialOpenGroupIndex: 1,
     collapsable: false,
     children: [
@@ -22,7 +22,7 @@ module.exports = [
   },
 
   {
-    title: 'Reference',
+    title: '引用',
     initialOpenGroupIndex: 1,
     collapsable: false,
     children: [

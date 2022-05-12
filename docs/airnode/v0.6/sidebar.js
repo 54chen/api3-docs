@@ -1,27 +1,27 @@
 module.exports = [
   {
-    title: 'Introduction',
+    title: '简介',
     initialOpenGroupIndex: 0,
     collapsable: true,
     children: ['', 'introduction/why-use-airnode'],
   },
   {
-    title: 'API Providers',
+    title: 'API供应商',
     initialOpenGroupIndex: 0,
     collapsable: true,
     children: [
       'grp-providers/', // Routes to the README.md in grp-providers
       {
-        title: 'Design Philosophy',
+        title: '设计理念',
         path: 'grp-providers/airnode/design-philosophy',
       },
-      { title: 'Implementation', path: 'grp-providers/airnode/implementation' },
+      { title: '实现', path: 'grp-providers/airnode/implementation' },
       {
-        title: 'Ethereum Providers',
+        title: '以太坊供应商',
         path: 'grp-providers/airnode/ethereum-providers',
       },
       {
-        title: 'Build an Airnode',
+        title: '创建一个Airnode',
         collapsable: true,
         children: [
           'grp-providers/guides/build-an-airnode/',
@@ -29,7 +29,7 @@ module.exports = [
           'grp-providers/guides/build-an-airnode/api-security',
           'grp-providers/guides/build-an-airnode/configuring-airnode',
           {
-            title: 'Using Authorizers',
+            title: '使用授权者',
             path: 'grp-providers/guides/build-an-airnode/apply-auth',
           },
           {
@@ -37,14 +37,14 @@ module.exports = [
             path: 'grp-providers/guides/build-an-airnode/heartbeat',
           },
           {
-            title: 'HTTP Gateways',
+            title: 'HTTP网关',
             path: 'grp-providers/guides/build-an-airnode/http-gateways',
           },
           'grp-providers/guides/build-an-airnode/deploying-airnode',
         ],
       },
       {
-        title: 'Docker Images',
+        title: 'Docker镜像',
         collapsable: true,
         children: [
           'grp-providers/docker/',
@@ -54,12 +54,12 @@ module.exports = [
         ],
       },
       {
-        title: 'Tutorials',
+        title: '教程',
         collapsable: true,
         children: [
-          { title: 'Overview', path: 'grp-providers/tutorial/' },
+          { title: '概述', path: 'grp-providers/tutorial/' },
           {
-            title: 'Quick Deploy Container',
+            title: '快速部署容器',
             collapsable: true,
             children: [
               'grp-providers/tutorial/quick-deploy-container/',
@@ -68,7 +68,7 @@ module.exports = [
             ],
           },
           {
-            title: 'Quick Deploy AWS',
+            title: '快速部署AWS',
             collapsable: true,
             children: [
               'grp-providers/tutorial/quick-deploy-aws/',
@@ -78,7 +78,7 @@ module.exports = [
             ],
           },
           {
-            title: 'Quick Deploy GCP',
+            title: '快速部署GCP',
             collapsable: true,
             children: [
               'grp-providers/tutorial/quick-deploy-gcp/',
@@ -92,7 +92,7 @@ module.exports = [
     ],
   },
   {
-    title: 'Developers',
+    title: '开发者',
     initialOpenGroupIndex: 0,
     collapsable: true,
     children: [
@@ -106,7 +106,7 @@ module.exports = [
     ],
   },
   {
-    title: 'Concepts and Definitions',
+    title: '概念和定义',
     collapsable: true,
     initialOpenGroupIndex: -1,
     children: [
@@ -124,12 +124,12 @@ module.exports = [
     ],
   },
   {
-    title: 'Reference',
+    title: '引用',
     initialOpenGroupIndex: -1,
     collapsable: false,
     children: [
       {
-        title: 'Specifications',
+        title: '技术规范',
         collapsable: true,
         children: [
           'reference/specifications/ois',
@@ -138,7 +138,7 @@ module.exports = [
         ],
       },
       {
-        title: 'Deployment Files',
+        title: '开发文件',
         collapsable: true,
         children: [
           'reference/deployment-files/',
@@ -158,7 +158,7 @@ module.exports = [
         ],
       },
       {
-        title: 'Examples Files',
+        title: '样例文件',
         collapsable: true,
         children: [
           'reference/examples/config-json',
@@ -167,7 +167,7 @@ module.exports = [
         ],
       },
       {
-        title: 'Templates',
+        title: '模板',
         children: [
           'reference/templates/ois-json',
           'reference/templates/config-json',
@@ -176,7 +176,7 @@ module.exports = [
         ],
       },
       {
-        title: 'Packages',
+        title: '包',
         children: [
           'reference/packages/', // Routes to the README.md in reference/packages/
           'reference/packages/adapter',
