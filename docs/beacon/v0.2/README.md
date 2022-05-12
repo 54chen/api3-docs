@@ -2,7 +2,7 @@
 title: Beacon是什么？
 ---
 
-<TitleSpan>Introduction</TitleSpan>
+<TitleSpan>简介</TitleSpan>
 
 # {{$frontmatter.title}}
 

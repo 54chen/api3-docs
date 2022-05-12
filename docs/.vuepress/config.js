@@ -7,7 +7,7 @@ module.exports = {
   /// Next version of airnode, used by /next route.
   airnodeVersionNext: [{ name: 'v0.6', url: '/airnode/v0.6/' }],
   /// Beacon doc set version pick list.
-  versionsBeacon: [{ name: 'v0.1', url: '/beacon/v0.1/' }],
+  versionsBeacon: [{ name: 'v0.2', url: '/beacon/v0.2/' }],
   /// OIS doc set version pick list.
   versionsOis: [{ name: 'v1.0.0', url: '/ois/v1.0.0/' }],
   /// Latest/current Airnode doc set version.
@@ -15,7 +15,7 @@ module.exports = {
   latestVersion: '/airnode/v0.6/',
   /// Latest/current Beacon doc set version.
   /// Used by api3dao/airnode CI link checking
-  latestBeaconVersion: '/beacon/v0.1/',
+  latestBeaconVersion: '/beacon/v0.2/',
   /// Latest/current OIS doc set version.
   /// Used by api3dao/airnode CI link checking
   latestOisVersion: '/ois/v1.0.0/',
@@ -52,7 +52,7 @@ module.exports = {
     sidebar: {
       '/airnode/v0.6/': require(`../airnode/v0.6/sidebar.js`),
       '/beacon/v0.2/': require(`../beacon/v0.2/sidebar.js`),
-      '/docs/ois/v1.0.0/': require(`../ois/v1.0.0/sidebar.js`),
+      '/ois/v1.0.0/': require(`../ois/v1.0.0/sidebar.js`),
       '/chainapi/': require(`../chainapi/sidebar.js`),
       '/dao-members/': require(`../dao-members/sidebar.js`),
       '/api3/': require(`../api3/sidebar.js`),

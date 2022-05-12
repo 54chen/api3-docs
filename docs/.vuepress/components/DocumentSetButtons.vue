@@ -13,8 +13,7 @@ it will always default to the startPath in config.json.
         Airnode</router-link
       >
       <p>
-        First-party serverless oracle node that solves the Web3 API connectivity
-        problem.
+        第一方无服务器预言机节点，解决了Web3 API的连接问题。
       </p>
     </li>
     <li>
@@ -23,8 +22,7 @@ it will always default to the startPath in config.json.
         Beacons</router-link
       >
       <p>
-        First-party Web3 data feeds powering transparent, reliable, and
-        cost-efficient dAPIs, dApps, and more.
+        第一方Web3数据源，为透明、可靠和具备成本效益的dAPIs、dApps等助力。
       </p>
     </li>
     <li>
@@ -33,23 +31,22 @@ it will always default to the startPath in config.json.
         OIS</router-link
       >
       <p>
-        Oracle Integration Specifications - linking Airnode endpoints to API
-        operations.
+        预言机集成规范--将Airnode端点与API链接操作。
       </p>
     </li>
     <li>
       <router-link to="/dao-members/">
         <img src="/img/02-DAO-State=Active@2x-1.png" />
-        DAO Members</router-link
+        DAO 成员</router-link
       >
-      <p>API3 DAO structure, functionality, and resources.</p>
+      <p>API3 DAO的结构、功能和资源。</p>
     </li>
     <li>
       <router-link to="/api3/">
         <img src="/img/03-API3-State=Active@2x-2.png" />
-        API3 Overview</router-link
+        API3 预览</router-link
       >
-      <p>Resources for learning more about the project and its mission.</p>
+      <p>了解更多关于该项目及其使命的资源。</p>
     </li>
   </div>
 </template>
