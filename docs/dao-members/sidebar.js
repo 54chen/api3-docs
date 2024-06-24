@@ -1,17 +1,17 @@
 module.exports = [
   {
-    title: 'Introduction',
+    title: '简述',
     initialOpenGroupIndex: 1,
     collapsable: false,
     children: [
       '', // API3 DAO
       { title: 'API3 DAO', path: 'introduction/api3-dao' },
-      { title: 'The DAO Pool', path: 'introduction/dao-pool' },
+      { title: 'DAO池', path: 'introduction/dao-pool' },
       'introduction/symlink-blog-posts',
     ],
   },
   {
-    title: 'Dashboard',
+    title: '控制面板',
     collapsable: false,
     children: [
       'dashboard/',
@@ -23,7 +23,7 @@ module.exports = [
     ],
   },
   {
-    title: 'Contract Architecture',
+    title: '合约结构',
     collapsable: false,
     children: [
       'contract-architecture/',
